@@ -26,21 +26,27 @@ Los elementos básicos son los encabezados, los efectos sobre los textos (negrit
 > texto en comillas 
 `> texto`
 
-### Ordered List
+### Listas
+Para una lista ordenada, se indica al inicio de la línea el indice del número de elemento.
 
-1. First item
-2. Second item
-3. Third item
+1. Primero
+2. Segundo
+3. Tercero
+```
+1. texto
+2. texto 
+3. texto
+```
 
-### Unordered List
+Lista no ordenada, se inicia solo con `-`
 
-- First item
-- Second item
-- Third item
+- Primero
+- Segundo
+- Terceri
 
-### Code
-
-`code`
+### Código
+Una sola línea de bloque, se indica con `código`
+`código`
 
 ### Horizontal Rule
 
