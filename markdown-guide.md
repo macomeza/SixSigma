@@ -72,7 +72,7 @@ Para hacer un enlace, ponemos entre corchetes [] el texto del enlace, seguido de
 
 ### Imagen
 Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar de texto del enlace establecemos el texto alternativo (si no se logra cargar la imagen) y entre paréntesis la ruta de la imagen.
-![logo zafra 54]([https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png])
+![logo](https://www.launion.com.gt/wp-content/uploads/2022/09/Logo-ILU-mas-imagen-zafra-54_Mesa-de-trabajo-1_010e00390_5611.jpg)
 
 ```
 ![texto alternativo]([https://launion.com.gt/logo.jpg)]
