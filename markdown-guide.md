@@ -8,17 +8,23 @@ Los elementos básicos son los encabezados, los efectos sobre los textos (negrit
 
 ### Encabezados y tipos de fuente
 
-# H1 - # texto - encabezado de máximo tamaño
-## H2 - ## texto - encabezado de tamaño mediano
-### H3 - ### texto - encabezado de tamaño pequeño
+# H1 encabezado de máximo tamaño
+`# texto`
+## H2 encabezado de tamaño medio
+`## texto`
+### H3 encabezado de tamaño pequeño
+`### texto`
 
 ### Efectos en fuente
 
-**texto en negrita** - ** texto
+**texto en negrita**
+`** texto`
 
-*texto en cursiva* - * texto
+*texto en cursiva*
+`* texto`
 
-> texto en comillas - > texto
+> texto en comillas 
+`> texto`
 
 ### Ordered List
 
