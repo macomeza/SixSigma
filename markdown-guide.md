@@ -2,32 +2,23 @@
 
 Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida.
 
-Para hacer títulos, usamos el # seguido de un espacio y seguido de nuestro texto.
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
 ## Básico
 
+Los elementos básicos son los encabezados, los efectos sobre los textos (negrita, itálica, etc), listas ordenadas o no ordenadas, bloques de código, línea horizontal, enlaces, e imágenes.
 
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+### Encabezados y tipos de fuente
 
-### Heading
+# H1 - # texto - encabezado de máximo tamaño
+## H2 - ## texto - encabezado de tamaño mediano
+### H3 - ### texto - encabezado de tamaño pequeño
 
-# H1
-## H2
-### H3
+### Efectos en fuente
 
-### Bold
+**texto en negrita** - ** texto
 
-**bold text**
+*texto en cursiva* - * texto
 
-### Italic
-
-*italicized text*
-
-### Blockquote
-
-> blockquote
+> texto en comillas - > texto
 
 ### Ordered List
 
