@@ -63,11 +63,15 @@ Para hacer una línea del ancho de la página, se escribe al inicio de la línea
 Para hacer un enlace, ponemos entre corchetes [] el texto del enlace, seguido de la dirección de refencia dentro de paréntesis.
 [Texto del enlace](https://www.markdownguide.org)
 
-``` [Texto del enlace](https://launion.com.gt```
+``` [Texto del enlace](https://launion.com.gt)```
 
-### Image
+### Imagen
+Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar de texto del enlace establecemos el texto alternativo (si no se logra cargar la imagen) y entre paréntesis la ruta de la imagen.
+![logo zafra 54]([https://www.launion.com.gt/wp-content/uploads/2022/09/Logo-ILU-mas-imagen-zafra-54_Mesa-de-trabajo-1_010e00390_5611.jpg])
 
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
+```
+![texto alternativo]([https://launion.com.gt/logo.jpg)]
+```
 
 ## Extended Syntax
 
