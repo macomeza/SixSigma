@@ -38,21 +38,28 @@ Para una lista ordenada, se indica al inicio de la línea el indice del número 
 3. texto
 ```
 
-Lista no ordenada, se inicia solo con `-`
+Lista no ordenada, se debe crear un elemento por línea iniciando con `-`
 
 - Primero
 - Segundo
-- Terceri
+- Tercero
 
 ### Código
-Una sola línea de bloque, se indica con `código`
+Una sola línea de código, se indica con `código`
 `código`
 
-### Horizontal Rule
+Un bloque de código se inicia y finaliza con ` ``` `
+```
+Acá va nuestro bloque
+...
+y finaliza acá.
+```
 
+### Línea horizontal
+Para hacer una línea del ancho de la página, se escribe al inicio de la línea `---`
 ---
 
-### Link
+### Enlace
 
 [Markdown Guide](https://www.markdownguide.org)
 
