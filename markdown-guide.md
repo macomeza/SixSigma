@@ -56,11 +56,13 @@ y finaliza acá.
 
 ### Línea horizontal
 Para hacer una línea del ancho de la página, se escribe al inicio de la línea ```---```
+
 ---
 
 ### Enlace
 Para hacer un enlace, ponemos entre corchetes [] el texto del enlace, seguido de la dirección de refencia dentro de paréntesis.
 [Texto del enlace](https://www.markdownguide.org)
+
 ``` [Texto del enlace](https://launion.com.gt```
 
 ### Image
