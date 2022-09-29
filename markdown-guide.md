@@ -6,6 +6,8 @@ Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdowngu
 
 Los elementos básicos son los encabezados, los efectos sobre los textos (negrita, itálica, etc), listas ordenadas o no ordenadas, bloques de código, línea horizontal, enlaces, e imágenes.
 
+Para hacer párrafos, no hace falta iniciar la línea con algún carácter.
+
 ### Encabezados y tipos de fuente
 
 # H1 encabezado de máximo tamaño
@@ -15,16 +17,19 @@ Los elementos básicos son los encabezados, los efectos sobre los textos (negrit
 ### H3 encabezado de tamaño pequeño
 `### texto`
 
+Si se desea, se puede continuar con el uso del # para hacer títulos de tamaño 4, 5 o 6.
+
 ### Efectos en fuente
 
 **texto en negrita**
-`** texto`
+`** texto **`
 
 *texto en cursiva*
-`* texto`
+`* texto *`
 
 > texto en comillas 
 `> texto`
+Si se desean múltiples líneas con el efecto de las comillas, debemos iniciar cada línea adicional del párrafo con >.
 
 ### Listas
 Para una lista ordenada, se indica al inicio de la línea el indice del número de elemento.
@@ -38,7 +43,7 @@ Para una lista ordenada, se indica al inicio de la línea el indice del número 
 3. texto
 ```
 
-Lista no ordenada, se debe crear un elemento por línea iniciando con `-`
+Lista no ordenada, se debe crear un elemento por línea iniciando con `- | + | *`
 
 - Primero
 - Segundo
@@ -67,7 +72,7 @@ Para hacer un enlace, ponemos entre corchetes [] el texto del enlace, seguido de
 
 ### Imagen
 Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar de texto del enlace establecemos el texto alternativo (si no se logra cargar la imagen) y entre paréntesis la ruta de la imagen.
-![logo zafra 54]([https://www.launion.com.gt/wp-content/uploads/2022/09/Logo-ILU-mas-imagen-zafra-54_Mesa-de-trabajo-1_010e00390_5611.jpg])
+![logo zafra 54]([https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png])
 
 ```
 ![texto alternativo]([https://launion.com.gt/logo.jpg)]
