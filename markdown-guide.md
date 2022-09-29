@@ -45,7 +45,7 @@ Lista no ordenada, se debe crear un elemento por línea iniciando con `-`
 - Tercero
 
 ### Código
-Una sola línea de código, se indica con `código`
+Una sola línea de código, se indica con ` `código` `
 `código`
 
 Un bloque de código se inicia y finaliza con ` ``` `
