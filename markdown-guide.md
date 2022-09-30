@@ -1,6 +1,6 @@
 # Guía rápida de markdown
 
-Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida. Para que el documento se interprete como markdown, deben establecerle la extensión `.md"`.
+Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida. Para que el documento se interprete como markdown, deben establecerle la extensión `.md`.
 
 ## Básico
 
