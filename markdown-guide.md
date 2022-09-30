@@ -1,6 +1,6 @@
 # Guía rápida de markdown
 
-Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida.
+Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida. Para que el documento se interprete como markdown, deben establecerle la extensión `.md"`.
 
 ## Básico
 
@@ -79,28 +79,18 @@ Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar
 ![texto alternativo]([https://launion.com.gt/logo.jpg)]
 ```
 
-## Extended Syntax
+## Sintáxis extendida (avanzada)
 
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+Las siguientes son algunas avanzadas o combinaciones de las básicas.
 
-### Table
+### Tablas
 
-| Syntax | Description |
+| Sintaxis | Descripción |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Encabezado | Título |
+| Párrafo | Texto |
 
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-### Footnote
+### Pie 
 
 Here's a sentence with a footnote. [^1]
 
