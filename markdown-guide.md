@@ -121,4 +121,4 @@ término
 
 ### Emoji
 
-Esto es genial! `:joy:`
+Esto es genial! `:joy:` :joy:
