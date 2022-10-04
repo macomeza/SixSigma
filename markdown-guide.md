@@ -91,6 +91,9 @@ Las siguientes son algunas avanzadas o combinaciones de las básicas.
 | Encabezado | Título |
 | Párrafo | Texto |
 ```
+| Encabezado columna 1 | Encabezado columna 2 |
+| -------------------- | -------------------- |
+| primer dato de columna 1 | primer dato de columna 2 |
 
 ### Pie de página
 
@@ -121,6 +124,8 @@ escritura
 - [ ] Ahora la segunda
 - [ ] Terminar el proyecto
 ```
+- [x] quiero seleccionar esta línea
+- [ ] está todavia no está seleccionada
 
 ### Emoji
 
