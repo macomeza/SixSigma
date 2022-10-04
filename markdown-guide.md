@@ -104,12 +104,15 @@ Podemos añadir citas como a continuación [^1] ``` [^#] ```
 término 
 : definición
 ```
+escritura
+: medio de comunicación
 
 ### Tachado
 
 ```
 ~~texto a tachar~~
 ```
+~~texto tachado~~
 
 ### Lista de tareas
 
