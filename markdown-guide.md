@@ -85,50 +85,40 @@ Las siguientes son algunas avanzadas o combinaciones de las básicas.
 
 ### Tablas
 
+```
 | Sintaxis | Descripción |
 | ----------- | ----------- |
 | Encabezado | Título |
 | Párrafo | Texto |
+```
 
-### Pie 
+### Pie de página
 
-Here's a sentence with a footnote. [^1]
+Podemos añadir citas como a continuación [^1] ``` [^#] ```
 
-[^1]: This is the footnote.
+[^1]: Esta es una cita de pie de página.
 
-### Heading ID
+### Glosario
 
-### My Great Heading {#custom-id}
+``` 
+término 
+: definición
+```
 
-### Definition List
+### Tachado
 
-term
-: definition
+```
+~~texto a tachar~~
+```
 
-### Strikethrough
+### Lista de tareas
 
-~~The world is flat.~~
-
-### Task List
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+```
+- [x] Hacer la primera tarea
+- [ ] Ahora la segunda
+- [ ] Terminar el proyecto
+```
 
 ### Emoji
 
-That is so funny! :joy:
-
-(See also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))
-
-### Highlight
-
-I need to highlight these ==very important words==.
-
-### Subscript
-
-H~2~O
-
-### Superscript
-
-X^2^
+Esto es genial! `:joy:`
