@@ -76,7 +76,7 @@ Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar
 ![logo](https://www.launion.com.gt/wp-content/uploads/2022/09/Logo-ILU-mas-imagen-zafra-54_Mesa-de-trabajo-1_010e00390_5611.jpg)
 
 ```
-![texto alternativo]([https://launion.com.gt/logo.jpg)]
+![texto alternativo](https://launion.com.gt/logo.jpg)
 ```
 
 ## Sintáxis extendida (avanzada)
