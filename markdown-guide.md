@@ -112,7 +112,8 @@ Podemos añadir citas como a continuación [^1] ``` [^#] ```
 Pueden ir múltiples párrafos para el tema 1. Incluyendo otros encabezados.
 
 ## Tema2 titulo compuesto
-Pueden ir varios párrafos también en este segundo tema. Nota, cuando el título no es una sola frase, el ancla debe contener el título completo sustituyendo espacio por guión.
+Pueden ir varios párrafos también en este segundo tema. Nota, cuando el título no es una sola frase, 
+el ancla debe contener el título completo sustituyendo espacio por guión.
 ```
 
 ### Glosario
