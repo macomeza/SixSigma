@@ -2,6 +2,8 @@
 
 Encontré un ejemplo espectacular en [The Markdown Guide](https://www.markdownguide.org)! y a partir de ello realicé esta guía resumida. Para que el documento se interprete como markdown, deben establecerle la extensión `.md`.
 
+Si desean, pueden ir a la sección [avanzada](#sintáxis-avanzada)
+
 ## Básico
 
 Los elementos básicos son los encabezados, los efectos sobre los textos (negrita, itálica, etc), listas ordenadas o no ordenadas, bloques de código, línea horizontal, enlaces, e imágenes.
@@ -79,7 +81,7 @@ Para insertar una imagen, es muy similar a insertar un enlace, solo que en lugar
 ![texto alternativo](https://launion.com.gt/logo.jpg)
 ```
 
-## Sintáxis extendida (avanzada)
+## Sintáxis avanzada
 
 Las siguientes son algunas avanzadas o combinaciones de las básicas.
 
