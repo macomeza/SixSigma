@@ -104,6 +104,7 @@ Podemos añadir citas como a continuación [^1] ``` [^#] ```
 [^1]: Esta es una cita de pie de página.
 
 ### Tabla de contenido
+Una buena idea para ayudar al lector es crear enlaces hacia secciones específicas por medio de anclas. Si el título incluye algún acento o caracter especial, es aconsejable darle clic a copiar enlace en el título y pegarlo directo en la sección de enlace, dentro de los paréntesis.
 
 ```
 # Ejemplo tabla de contenido
