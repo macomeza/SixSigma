@@ -1,6 +1,10 @@
 # SixSigma
-Lean Six Sigma and Data Analytics
+En este índice encontraremos publicaciones de interes para desarrollar proyectos con Six Sigma.
 
-## prueba
+[La ruta del proceso DMAIC]()
+[Mapeo de procesos]()
 
-### otra prueba
+## La ruta del proceso DMAIC
+
+
+## Mapeo de procesos
