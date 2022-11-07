@@ -4,8 +4,7 @@
 ¿Qué problema estamos tratando de resolver?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 1. Entender los requerimientos del cliente y del negocio. | - ¿Cómo se ve el problema desde la perspectiva del cliente? | - Voz del cliente (VOC). 
-| | | - Diagrama de afinidad. |
+| 1. Entender los requerimientos del cliente y del negocio. | - ¿Cómo se ve el problema desde la perspectiva del cliente? | <ul><li> - Voz del cliente (VOC). </li><li> - Diagrama de afinidad. </li></ul> |
 | | | - Traducir necesidades a requerimientos. |
 | | | - Análisis Kano. |
 | | | - Árbol de Crítico para la Calidad. |
