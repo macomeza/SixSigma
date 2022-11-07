@@ -4,11 +4,7 @@
 ¿Qué problema estamos tratando de resolver?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 1. Entender los requerimientos del cliente y del negocio. | - ¿Cómo se ve el problema desde la perspectiva del cliente? | <ul><li> - Voz del cliente (VOC). </li><li> - Diagrama de afinidad. </li></ul> |
-| | | - Traducir necesidades a requerimientos. |
-| | | - Análisis Kano. |
-| | | - Árbol de Crítico para la Calidad. |
-| | | - Matriz de selección del proyecto. |
+| 1. Entender los requerimientos del cliente y del negocio. | - ¿Cómo se ve el problema desde la perspectiva del cliente? | <ul><li>Voz del cliente (VOC). </li><li>Diagrama de afinidad. </li><li>Traducir necesidades a requerimientos. </li><li>Análisis Kano. </li><li>Árbol de Crítico para la Calidad. </li><li>Matriz de selección del proyecto.<li></ul> |
 | 2. Completar el estatuto del proyecto. | | |
 | 3. Completar el SIPOC. | | |
 
