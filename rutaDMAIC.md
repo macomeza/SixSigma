@@ -12,9 +12,9 @@
 ¿Cuál es el alcance del problema?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 4. Identificar que mediremos. | | |
-| 5. Planear y recolectar datos. | | |
-| 6. Determinar el rendimiento de línea base. | | |
+| 4. Identificar que mediremos. | <ul><li>¿Cómo se ve el proceso actual detallado?</li><li>Cuál es la salida (Y) y las mediciones primarias (Xs)? </li></ul> | <ul><li>Mapa de proceso funcional. </li><li>COPQ costo de baja calidad.</li><li>Ocho desperdicios.</li><li>VSM mapeo de flujo de valor.</li><li>Takt time.</li></ul> |
+| 5. Planear y recolectar datos. | <ul><li>¿Cómo puede asegurar que la recolección de datos es robusta?</li><li>¿Qué dicen los datos?</li></ul> | <ul><li>Matriz XY</li><li>Plan de recolección de datos</li><li>Definición operacional</li><li>Muestreo</li><li>Sistema de Análisis de Mediciones</li></ul> |
+| 6. Determinar el rendimiento de línea base. | <ul><li>¿Es el proceso estable?</li><li>¿Es el proceso capaz de cumplir los requerimientos?</li></ul>| <ul><li>Gráfica de corridas</li><li>Prueba de normalidad</li><li>Rendimiento de procesos</li><li>Capacidad del proceso - datos discretos</li><li>Capcidad del proceso - datos continuos</li></ul> |
 
 ### Analizar
 ¿Por qué está ocurriendo el problema?
