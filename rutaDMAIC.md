@@ -20,9 +20,9 @@
 ¿Por qué está ocurriendo el problema?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 7. Identificar las brechas del rendimiento. | | | 
-| 8. Identificar las causas raíz críticas. | | |
-| 9. Validar las causas raíz. | | |
+| 7. Identificar las brechas del rendimiento. | <ul><li> ¿Cuáles son los origenes de variación y desperdicio?</li><li>¿Cuáles son las causas potenciales del problema</li></ul> | <ul><li>Tormenta de ideas.</li><li>Diagrama de pescado.</li><li>5 porques.</li></ul> | 
+| 8. Identificar las causas raíz críticas. | <ul><li>¿Qué revelan las gráricas estratificadas?</li><li>¿Qué revelan los datos estratificados?</li></ul> | <ul><li>Gráfica de Pareto.</li><li>Gráfica de cajas,</li><li>Gráfica de dispersión.</li><li>Multi votación.</li><li>Matriz de control de impacto.</li></ul> |
+| 9. Validar las causas raíz. |<ul><li>¿Cómo sabes que estas son las causas raíz?</li><li>¿Cuales son las causas raiz validadas?</li></ul> |<ul><li>1a muestra t.</li><li>2a muestra t.</li><li>Prueba t pareada.</li> |
 
 ### Mejorar
 ¿Qué proponemos hacer y por qué?
