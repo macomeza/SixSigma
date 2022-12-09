@@ -22,20 +22,20 @@
 |----------|-------------|--------------|
 | 7. Identificar las brechas del rendimiento. | <ul><li> ¿Cuáles son los origenes de variación y desperdicio?</li><li>¿Cuáles son las causas potenciales del problema</li></ul> | <ul><li>Tormenta de ideas.</li><li>Diagrama de pescado.</li><li>5 porques.</li></ul> | 
 | 8. Identificar las causas raíz críticas. | <ul><li>¿Qué revelan las gráricas estratificadas?</li><li>¿Qué revelan los datos estratificados?</li></ul> | <ul><li>Gráfica de Pareto.</li><li>Gráfica de cajas,</li><li>Gráfica de dispersión.</li><li>Multi votación.</li><li>Matriz de control de impacto.</li></ul> |
-| 9. Validar las causas raíz. |<ul><li>¿Cómo sabes que estas son las causas raíz?</li><li>¿Cuales son las causas raiz validadas?</li></ul> |<ul><li>1a muestra t.</li><li>2a muestra t.</li><li>Prueba t pareada.</li> |
+| 9. Validar las causas raíz. |<ul><li>¿Cómo sabes que estas son las causas raíz?</li><li>¿Cuales son las causas raiz validadas?</li></ul> |<ul><li>t de 1 muestra.</li><li>t de 2 muestra.</li><li>t pareada.</li><li>ANOVA de 1 solo factor.</li><li>1 varianza.</li><li>2 varianzas.</li><li>Igualdad de varianzas.</li><li>Prueba de signo para 1 muestra.</li><li>Mann-Whitney.</li><li>Prueba de la mediana de Moods.</li><li>Análisis de correlación.</li><li>Regresión.</li><li>Chi cuadrara.</li><li></li><li>1 proporción.</li><li>2 proporciones.</li></ul> |
 
 ### Mejorar
 ¿Qué proponemos hacer y por qué?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 10. Generar, priorizar y seleccionar la solución. | | |
-| 11. Solución piloto. | |
-| 12. Validar el impacto de la solución. | | | 
+| 10. Generar, priorizar y seleccionar la solución. | <ul><li>Qué puede resolver la causa raíz.</li><li>Cómo puede la solución resolver una causa-raíz identificada.</li><li>Qué soluciones han sido seleccionadas y porqué?</li><li>Cuál es el análisis costo-beneficio.</li></ul> | |
+| 11. Solución piloto. | <ul><li>Cómo sabes que la solución será existosa.</li><li>Cuales son los riesgos inherentes de la solución.</li></ul> |
+| 12. Validar el impacto de la solución. | <ul><li>Cómo sabes que el problema fue resuelto.</li><li>Cómo podrás darle seguimiento a los beneficios futuros.</li></ul> | | 
 
 ### Controlar
 ¿Cómo nos aseguramos de que el problema se ha resuelto?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 13. Institucionalizar la solución. | | |
-| 14. Replicar y compartir las mejores prácticas. | | |
-| 15. Celebrar y reconocer el éxito. | | |
+| 13. Institucionalizar la solución. | <ul><li>Cuál es el plan para implementar las soluciones.</li><li>Quién está haciendo qué?</li><li>Cómo le daremos seguimiento al rendimiento.</li><li>Qué acciones se tomarán si el problema vuelve.</li></ul>| |
+| 14. Replicar y compartir las mejores prácticas. | <ul><li>Cómo capturamos el conocimiento relacionado a mejores prácticas y lo que las hace efectivas.</li><li>Cómo conectamos a los practicantes actuales y a los adoptadores potenciales de las buenas prácticas.</li><li>Qué soporte le daremos a los adoptantes a través del tiempo.</li></ul> | |
+| 15. Celebrar y reconocer el éxito. | <ul><li>Cómo compartiremos los resultados.</li><li>Cómo vamos a mostrar y recompensar las contribuciones individuales.</li></ul> | |
