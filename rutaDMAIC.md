@@ -28,14 +28,14 @@
 ¿Qué proponemos hacer y por qué?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 10. Generar, priorizar y seleccionar la solución. | <ul><li>Qué puede resolver la causa raíz.</li><li>Cómo puede la solución resolver una causa-raíz identificada.</li><li>Qué soluciones han sido seleccionadas y porqué?</li><li>Cuál es el análisis costo-beneficio.</li></ul> | |
-| 11. Solución piloto. | <ul><li>Cómo sabes que la solución será existosa.</li><li>Cuales son los riesgos inherentes de la solución.</li></ul> |
-| 12. Validar el impacto de la solución. | <ul><li>Cómo sabes que el problema fue resuelto.</li><li>Cómo podrás darle seguimiento a los beneficios futuros.</li></ul> | | 
+| 10. Generar, priorizar y seleccionar la solución. | <ul><li>Qué puede resolver la causa raíz.</li><li>Cómo puede la solución resolver una causa-raíz identificada.</li><li>Qué soluciones han sido seleccionadas y porqué?</li><li>Cuál es el análisis costo-beneficio.</li></ul> | <ul><li>Lluevia de ideas.</li><li>Benchmarking.</li><li>Escritura de ideas.</li><li>Romper suposiciones.</li><li>Técnica de las analogía.</li><li>Técnica de canalización.</li><li>Técnica anti-solución.</li><li>5S.</li><li>Hejiunka.</li><li>Obtener genérico.</li><li>Jidoka.</li><li>Justo a tiempo.</li><li>Selección de solución.</li></ul> |
+| 11. Solución piloto. | <ul><li>Cómo sabes que la solución será existosa.</li><li>Cuales son los riesgos inherentes de la solución.</li></ul> | <ul><li>Plan piloto.</li><li>Poka-Yoke.</li><li>FMEA.</li><li>Planificación de la implementación.</li></ul> |
+| 12. Validar el impacto de la solución. | <ul><li>Cómo sabes que el problema fue resuelto.</li><li>Cómo podrás darle seguimiento a los beneficios futuros.</li></ul> | <ul><li>Anális costo beneficio.</li><li>Re análisis del sistema de medición.</li><li>Capacidad del proceso.</li></ul>| 
 
 ### Controlar
 ¿Cómo nos aseguramos de que el problema se ha resuelto?
 | Subetapa | Actividades | Herramientas | 
 |----------|-------------|--------------|
-| 13. Institucionalizar la solución. | <ul><li>Cuál es el plan para implementar las soluciones.</li><li>Quién está haciendo qué?</li><li>Cómo le daremos seguimiento al rendimiento.</li><li>Qué acciones se tomarán si el problema vuelve.</li></ul>| |
-| 14. Replicar y compartir las mejores prácticas. | <ul><li>Cómo capturamos el conocimiento relacionado a mejores prácticas y lo que las hace efectivas.</li><li>Cómo conectamos a los practicantes actuales y a los adoptadores potenciales de las buenas prácticas.</li><li>Qué soporte le daremos a los adoptantes a través del tiempo.</li></ul> | |
-| 15. Celebrar y reconocer el éxito. | <ul><li>Cómo compartiremos los resultados.</li><li>Cómo vamos a mostrar y recompensar las contribuciones individuales.</li></ul> | |
+| 13. Institucionalizar la solución. | <ul><li>Cuál es el plan para implementar las soluciones.</li><li>Quién está haciendo qué?</li><li>Cómo le daremos seguimiento al rendimiento.</li><li>Qué acciones se tomarán si el problema vuelve.</li></ul>| <ul><li>VMBs.</li><li>Reunión de equipos.</li><li>SOPs.</li><li>Go Gemba.</li><li>Plan de Control</li><li>Gráficos de control</li></ul> |
+| 14. Replicar y compartir las mejores prácticas. | <ul><li>Cómo capturamos el conocimiento relacionado a mejores prácticas y lo que las hace efectivas.</li><li>Cómo conectamos a los practicantes actuales y a los adoptadores potenciales de las buenas prácticas.</li><li>Qué soporte le daremos a los adoptantes a través del tiempo.</li></ul> | <ul><li>Transferencia de la mejor práctica.</li></ul> |
+| 15. Celebrar y reconocer el éxito. | <ul><li>Cómo compartiremos los resultados.</li><li>Cómo vamos a mostrar y recompensar las contribuciones individuales.</li></ul> | <ul><li>Revisión post-implementación.</li><li>Celebrar.</li></ul> |
