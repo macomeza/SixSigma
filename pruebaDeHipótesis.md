@@ -8,4 +8,4 @@ Vamos a decir que la nueva sensación anotó 8 goles en el mundial y la estrella
 
 Un fanático hace el siguiente análisis:
 
-"La nueva sensación parece que es mejor goleador, tiene 24 años y 267 partidos, necesito más información antes de decidir que me volveré fanático suyo a partir de hoy".
+> La nueva sensación parece que es mejor goleador, tiene 24 años y 267 partidos, necesito más información antes de decidir que me volveré fanático suyo a partir de hoy.
